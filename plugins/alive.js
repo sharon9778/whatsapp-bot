@@ -7,7 +7,7 @@ const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("streaker sir");
 const {
   Module,
   commands
@@ -31,12 +31,12 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'https://github.com/sharon9778/whatsapp-bot'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'+919778784162(";")[2]+'?text=itsme+rpmstreacker'
     }
 }, {
     quickReplyButton: {
@@ -57,18 +57,18 @@ Module({
 var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
 ┃✩╭──────────────
 ┃✩│
-┃✩│ Owner : ${BOT_INFO.split(";")[1]}
+┃✩│ Owner : ${𝐒𝐓𝐑𝐄𝐀𝐂𝐊𝐄𝐑 𝐒𝐈𝐑(";")[1]}
 ┃✩│ User : ${message.senderName}
 ┃✩│ Mode : ${MODE}
 ┃✩│ Server : ${config.HEROKU.APP_NAME}
 ┃✩│ Ram: 1024 MB
 ┃✩│ Disk Space: 620 GB
 ┃✩│ Version: ${config.VERSION}
-┃✩│
+┃✩│ insta : rpm streaker
 ┃✩│
 ┃✩│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃✩│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃✩│   ${BOT_INFO.split(";")[0]}
+┃✩|    {𝐒𝐓𝐑𝐄𝐀𝐂𝐊𝐄𝐑 𝐒𝐈𝐑}
 ┃✩│ 
 ┃✩╰───────────────
 ╰═════════════════⊷
